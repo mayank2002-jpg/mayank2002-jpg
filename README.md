@@ -1,5 +1,6 @@
 <img src="https://github.com/mayank2002-jpg/mayank2002-jpg/blob/main/Black%20and%20Orange%20Minimal%20Round%20Geometric%20Shapes%20New%20eBook%20Twitter%20Header.png?raw=true" alt="image" style="max-width: 100%;">
-Hi 👋 My name is Mayank Mahajan
+
+<h1>Hi 👋 My name is Mayank Mahajan</h1>
 
 I'm Student📚, Web developer💻 and Designer❤
 --------------------------------------------
