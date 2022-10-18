@@ -32,7 +32,7 @@ I have been learning to code For the Last 1.5 years. Started My Journey with C l
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-<a href="https://holopin.me/_mayank__mahajan" target="_blank" width="36" height="36"/></a>
+<a href="https://holopin.me/_mayank__mahajan" target="_blank" width="36" height="36"/>Badge</a>
 
 ### Socials
 
