@@ -33,6 +33,7 @@ I have been learning to code For the Last 1.5 years. Started My Journey with C l
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
+[![@_mayank__mahajan's Holopin board](https://holopin.me/_mayank__mahajan)](https://holopin.io/@_mayank__mahajan)
 
 ### Socials
 
