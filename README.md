@@ -6,7 +6,8 @@
 I'm Student📚, Web developer💻 and Designer❤
 --------------------------------------------
 
-I have been learning to code For the Last 2 years. Started My Journey with C language to know the basics of Programming Language. After That, I shifted to Web development where I got a great interest. I got to know how real-world website works. To enhance my problem-Solving Skill I use JAVA language to solve problems. I am enthusiastic to learn backend technology and become MERN developer.
+I have dedicated the past three years to learning how to code. My journey began with the C language, where I focused on grasping the fundamentals of programming. After gaining a solid foundation, I shifted my focus to web development, which captivated my interest immensely. Exploring the intricacies of real-world websites allowed me to understand their inner workings.
+To further strengthen my problem-solving abilities, I turned to the Java language. Utilizing Java, I tackled various challenges and expanded my skills. Now, I am driven to delve into backend technologies and pursue my goal of becoming a MERN (MongoDB, Express, React, Node.js) developer. The prospect of working with these technologies excites me, and I am eager to embark on this next phase of my coding journey.
 
 * 🌍  I'm based in Mumbai,India
 * 🖥️  See my portfolio at [Personal Portfolio](http://mayankmahajan.netlify.app/)
